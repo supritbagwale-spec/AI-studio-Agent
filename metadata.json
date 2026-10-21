@@ -1,0 +1,6 @@
+{
+  "name": "RetailIQ - Autonomous Retail SQL Analyst & BI Consultant",
+  "description": "Autonomous retail SQL data analyst agent and business intelligence consultant featuring a multi-agent LangGraph pipeline, safety guardrail validation, real-time SQL execution, and 4-part consulting executive synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
